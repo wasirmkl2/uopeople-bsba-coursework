@@ -9,15 +9,15 @@ Note: Following Last's (n.d.) advice on professional persuasion, this email reli
 
 Dear Professor Rajith,
 
-I would appreciate your feedback on a research idea I have been developing in ENGL 1102 (Units 1–4), particularly my choice of research methodology.
+I would value your input on the research methodology for a project I have been developing in ENGL 1102 (Units 1–4).
 
 My study asks whether culinary school or on-the-job training better prepares cooks for real kitchen work. I hope to run a kitchen one day, so the answer matters to me. None of the sources I reviewed compared practical performance directly; they focused on satisfaction, nutrition knowledge, or job match. I am considering at least 30 early-career cooks per group, recruited from restaurants and culinary schools that are accessible to me (National University, 2024). Each cook would complete the same timed kitchen tasks and a written technical test.
 
-My goals are to compare the two groups' performance and to understand what explains any differences, so I believe a mixed-methods design would suit the study best. Serdikoff (2021) explains that quantitative research gives precise answers to specific questions and supports general conclusions (p. 431). That is what I need to compare two training paths fairly, but numbers alone cannot show why one group performs differently. Qualitative research can capture participants' "lived experience" in depth, but by itself it would not give me the numerical comparison between groups that my goals require (Serdikoff, 2021, pp. 432–433). I am therefore considering an explanatory sequential design, in which quantitative results come first and follow-up interviews explain them (George, 2025). Since mixed-methods research is labor-intensive (George, 2025), I would interview only a small group from each path.
+My goals are to compare the two groups' performance and to understand what explains any differences, so I believe a mixed-methods design would suit the study best. According to Serdikoff (2021), quantitative research excels at answering specific questions precisely and drawing broad conclusions (p. 431). That is what I need to compare two training paths fairly, but numbers alone cannot show why one group performs differently. Qualitative research can capture participants' "lived experience" in depth, but by itself it would not give me the numerical comparison between groups that my goals require (Serdikoff, 2021, pp. 432–433). I am therefore considering an explanatory sequential design, in which quantitative results come first and follow-up interviews explain them (George, 2025). Since mixed-methods research is labor-intensive (George, 2025), I would interview only a small group from each path.
 
 Could you tell me whether this design seems justified and manageable for one researcher, and whether my research questions are clear enough? I can also send my Unit 4 paper.
 
-Thank you for your time and guidance.
+I appreciate any guidance you can offer.
 
 Sincerely,
 Saira Binte Shahriar
