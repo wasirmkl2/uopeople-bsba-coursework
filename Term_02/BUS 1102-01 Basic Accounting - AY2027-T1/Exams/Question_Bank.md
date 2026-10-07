@@ -410,3 +410,111 @@ file as they come up in future units/exams.
 **Answer: By providing financial data for planning and control** (CONFIRMED CORRECT) (Same as Unit 1 Q4.)
 
 ---
+
+---
+
+## Unit 5 (Self-Quiz)
+
+Two self-quiz attempts (5 questions each), logged in the order given.
+
+### Attempt 1
+
+**1. Which of the following formulas calculates days' sales in inventory?**
+- Average Inventory / Cost of Goods Sold
+- 365 / Inventory Turnover
+- Inventory Turnover / 365
+- Cost of Goods Sold / Average Inventory
+
+**Answer: 365 / Inventory Turnover** (CONFIRMED CORRECT) (Days' sales in inventory = 365 ÷ inventory turnover. Inventory turnover itself = COGS ÷ Average Inventory, which is the last option.)
+
+---
+
+**2. During a period of declining prices, which inventory valuation method will result in lower COGS and the highest net income?**
+- Weighted average
+- Specific identification
+- LIFO
+- FIFO
+
+**Answer: FIFO** (CONFIRMED WRONG on first attempt — answered LIFO; the quiz key is FIFO.) (TRAP: standard textbook logic says that when prices fall, LIFO expenses the newest/cheaper costs first and would give lower COGS and higher net income, while FIFO expenses the older/higher costs first. This course's key nonetheless marks FIFO. If this question shows up again, answer FIFO.)
+
+---
+
+**3. Which of the following is an accurate definition of accounts receivable?**
+- Amounts owed to a company by customers
+- Amounts owed by a company to suppliers
+- A company's current liabilities
+- A company's total current assets
+
+**Answer: Amounts owed to a company by customers** (CONFIRMED CORRECT) (Accounts payable is the "owed to suppliers" option.)
+
+---
+
+**4. To record customer payments, a company should:**
+- Credit the Accounts Receivable account and debit the Cash account
+- Debit both Accounts Receivable and Cash
+- Credit both Accounts Receivable and Cash
+- Debit the Accounts Receivable account and credit the Cash account
+
+**Answer: Credit the Accounts Receivable account and debit the Cash account** (CONFIRMED CORRECT) (Cash increases → debit; the receivable is reduced → credit.)
+
+---
+
+**5. What happens to COGS if purchase returns increase?**
+- COGS is unaffected by returns
+- COGS remains unchanged
+- COGS increases
+- COGS decreases
+
+**Answer: COGS decreases** (CONFIRMED CORRECT) (Returns lower net purchases, which lowers cost of goods available for sale and therefore COGS.)
+
+---
+
+### Attempt 2
+
+**1. Which financial ratio measures a company's ability to pay its short-term debts?**
+- Inventory turnover ratio
+- Current ratio
+- Profit margin ratio
+- Debt-to-equity ratio
+
+**Answer: Current ratio** (CONFIRMED CORRECT) (Current assets ÷ current liabilities — a liquidity ratio. Debt-to-equity is solvency/leverage; profit margin is profitability.)
+
+---
+
+**2. Low inventory turnover ratio might suggest:**
+- Efficient inventory management
+- Excessive inventory levels
+- Insufficient inventory levels
+- High sales volume
+
+**Answer: Excessive inventory levels** (CONFIRMED CORRECT) (Inventory sits unsold for long periods → overstocking or weak sales.)
+
+---
+
+**3. An increase in COGS will result in:**
+- A lower gross profit
+- An increase in liabilities
+- A higher gross profit
+- An increase in assets
+
+**Answer: A lower gross profit** (CONFIRMED CORRECT) (Gross profit = Sales − COGS.)
+
+---
+
+**4. Accounts Receivable Turnover is a ratio that indicates:**
+- The frequency of customer returns
+- The average number of days it takes to collect receivables
+- The proportion of cash sales to credit sales
+- The number of times accounts receivable are collected during the period
+
+**Answer: The number of times accounts receivable are collected during the period** (CONFIRMED CORRECT) (Net credit sales ÷ average accounts receivable. Trap: "average number of days to collect" describes days' sales outstanding, a different ratio.)
+
+---
+
+**5. Inventory Turnover is a ratio used to determine:**
+- The proportion of goods returned by customers
+- The average number of days inventory is held
+- The value of obsolete inventory
+- The number of times inventory is sold and replaced over a period
+
+**Answer: The number of times inventory is sold and replaced over a period** (CONFIRMED CORRECT) (COGS ÷ average inventory. Trap: "average days inventory is held" describes days' sales in inventory.)
