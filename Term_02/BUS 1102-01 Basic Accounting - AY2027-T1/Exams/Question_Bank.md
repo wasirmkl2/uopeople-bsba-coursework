@@ -411,8 +411,6 @@ file as they come up in future units/exams.
 
 ---
 
----
-
 ## Unit 5 (Self-Quiz)
 
 Two self-quiz attempts (5 questions each), logged in the order given.
