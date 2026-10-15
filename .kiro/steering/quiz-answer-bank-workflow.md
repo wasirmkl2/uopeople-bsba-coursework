@@ -29,6 +29,8 @@ Existing answer banks in this repo:
 - **ENGL 1102-01:** `Term_02/ENGL 1102-01 English Composition 2 - AY2027-T1/Exams/uopeople-verified-quiz-answers.md`
   (Units 1–3 finished; content has been mirrored to/from the household's other UoPeople repo
   where the same course is shared.)
+- **BUS 1102-01:** `Term_02/BUS 1102-01 Basic Accounting - AY2027-T1/Exams/uopeople-verified-quiz-answers.md`
+  (Unit 6 self-quiz logged, 5/5 confirmed.)
 
 ## Answering process — sourcing order for every new question
 
